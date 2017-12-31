@@ -193,6 +193,7 @@ response.setDateHeader ("Expires", -1);
 							<option value="item-order"><s:message code="label.generic.default" text="Default" /></option>
 							<option value="item-name"><s:message code="label.generic.name" text="Name" /></option>
 							<option value="item-price"><s:message code="label.generic.price" text="Price" /></option>
+                            <option value="item-price"><s:message code="label.generic.rating" text="Rating" /></option>
 						</select>
 						</li>
 					</ul>
